@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 0x11. C - printf team project
 
 Group Project:
@@ -35,3 +36,6 @@ Print is the sharpest and the strongest weapon of our party Handle the following
 The flood of print has turned reading into a process of gulping rather than savo ring Handle the following custom conversion specifier:
 
 All the above options work well together.
+=======
+Updated codes
+>>>>>>> d1db583 (Changed the README file)
